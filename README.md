@@ -1,9 +1,9 @@
 # Hola!  Soy Jehovander Delgado 
   Sobre mi:
-- Soy Full Stack Developer :ordenador:.
+- Soy Full Stack Developer.
 - Actualmente resido en venezuela.
 - En busqueda de empleo.
- tengo conocimientos sobre:
+ ## tengo conocimientos sobre: 
  Programming Languages:
 <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
