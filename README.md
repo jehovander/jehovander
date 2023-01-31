@@ -1,5 +1,5 @@
-# Hola! :hola: Soy Jehovander Delgado  :vía_láctea:
-## :astro_cometa: Sobre mi:
+# Hola!  Soy Jehovander Delgado 
+  Sobre mi:
 - Soy Full Stack Developer :ordenador:.
 - Actualmente resido en venezuela.
 - En busqueda de empleo.
