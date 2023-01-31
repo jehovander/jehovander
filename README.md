@@ -25,6 +25,6 @@ Contactos:
 <p align="left">
 <a href="https://www.linkedin.com/in/jehovander-delgado-1147b7154/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jehovander-delgado-1147b7154/" height="30" width="40" /></a>
-<a href="mailto:jehovanders@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" align="center"
+<a href="jehovanders@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" align="center"
 height="40" width="40"> </a>
 </p>
